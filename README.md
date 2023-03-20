@@ -21,11 +21,14 @@ copy the text and remember the pid i.e.: `Agent pid 7931`
 
 
 (Run this before accessing the github account, example cloneing the private repo of it)
+
 `ssh-add github`
+
 `ssh -T git@github.com`
 
 
 Add the public to github.
+
 URL: https://github.com/settings/keys
 
 
