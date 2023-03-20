@@ -5,7 +5,8 @@ Linux system setup after format
 
 apt install git
 
-### SSH Key Generation and Auth setup
+
+## SSH Key Generation and Auth setup
 
 Refernce: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent?platform=linux
 
@@ -15,9 +16,11 @@ Refernce: https://docs.github.com/en/authentication/connecting-to-github-with-ss
 
 
 
+
 file name `github`
 
 copy the text and remember the pid i.e.: `Agent pid 7931`
+
 
 
 (Run this before accessing the github account, example cloneing the private repo of it)
@@ -27,14 +30,18 @@ copy the text and remember the pid i.e.: `Agent pid 7931`
 `ssh -T git@github.com`
 
 
+
 Add the public to github.
 
 URL: https://github.com/settings/keys
 
 
+
 ## Install vi
 
 `sudo apt install vim`
+ 
+ 
  
 
 ## Install VS Code
