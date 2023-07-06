@@ -47,7 +47,7 @@ copy the text and remember the pid i.e.: `Agent pid 7931`
 
 
 
-(Run this before accessing the github account, example cloneing the private repo of it)
+(Run this before accessing the github account, example cloning the private repo of it)
 
 `ssh-add github`
 
@@ -55,9 +55,17 @@ copy the text and remember the pid i.e.: `Agent pid 7931`
 
 
 
-Add the public to github.
+Add the public key to github.
+
 
 **URL**: https://github.com/settings/keys
+
+### Add gitconfig user.name and email
+`git config --global user.name "bishnu"`
+
+`git config --global user.email "bishnu.nandi123@gmail.com"`
+
+
 
 
 
@@ -70,4 +78,8 @@ Add the public to github.
 
 ## Install VS Code
 
-**Referance**: https://code.visualstudio.com/docs/setup/linux
+**Reference**: https://code.visualstudio.com/docs/setup/linux
+
+### Few extensions for better and developmemt
+- GitLens
+- Code Spell Checker
