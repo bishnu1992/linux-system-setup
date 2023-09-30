@@ -83,3 +83,7 @@ Add the public key to github.
 ### Few extensions for better and developmemt
 - GitLens
 - Code Spell Checker
+
+
+## Oh My Zsh
+https://ohmyz.sh/
