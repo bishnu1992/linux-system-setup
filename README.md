@@ -84,6 +84,11 @@ Add the public key to github.
 - GitLens
 - Code Spell Checker
 
+## Install zsh
+
+`sudo apt install zsh -y`
+
+**Reference**: https://phoenixnap.com/kb/install-zsh-ubuntu
 
 ## Oh My Zsh
 https://ohmyz.sh/
